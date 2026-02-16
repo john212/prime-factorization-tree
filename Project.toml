@@ -1,0 +1,7 @@
+toml
+
+[deps]
+GraphRecipes = "0.5.16"
+Plots = "1.41.5"
+PlutoUI = "0.7.79"
+Primes = "0.5.7"
